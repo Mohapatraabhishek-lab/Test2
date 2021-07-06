@@ -1,0 +1,11 @@
+C:\Users\Dell\source\repos\Vehicle Repository\Vehicle Repository\bin\Debug\Vehicle Repository.exe.config
+C:\Users\Dell\source\repos\Vehicle Repository\Vehicle Repository\bin\Debug\Vehicle Repository.exe
+C:\Users\Dell\source\repos\Vehicle Repository\Vehicle Repository\bin\Debug\Vehicle Repository.pdb
+C:\Users\Dell\source\repos\Vehicle Repository\Vehicle Repository\bin\Debug\EntityFramework.dll
+C:\Users\Dell\source\repos\Vehicle Repository\Vehicle Repository\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Dell\source\repos\Vehicle Repository\Vehicle Repository\bin\Debug\EntityFramework.xml
+C:\Users\Dell\source\repos\Vehicle Repository\Vehicle Repository\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Dell\source\repos\Vehicle Repository\Vehicle Repository\obj\Debug\Vehicle Repository.csprojAssemblyReference.cache
+C:\Users\Dell\source\repos\Vehicle Repository\Vehicle Repository\obj\Debug\Vehicle Repository.csproj.CopyComplete
+C:\Users\Dell\source\repos\Vehicle Repository\Vehicle Repository\obj\Debug\Vehicle Repository.exe
+C:\Users\Dell\source\repos\Vehicle Repository\Vehicle Repository\obj\Debug\Vehicle Repository.pdb
